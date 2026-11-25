@@ -1,0 +1,7 @@
+{
+  "seed": 107,
+  "active_voxels": 32768,
+  "channels": 16,
+  "coordinate_extent": 1048576,
+  "max_workspace_bytes": 33554432
+}
